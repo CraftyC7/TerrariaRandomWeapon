@@ -558,12 +558,6 @@
       ]
     },
     {
-      "name": "King Slime",
-      "weapons": [
-        
-      ]
-    },
-    {
       "name": "Desert Scourge",
       "weapons": [
         {
@@ -767,7 +761,7 @@
         {
           "name": "Night's Edge",
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/98/Night%27s_Edge.png"
-        },
+        }
       ]
     }
     {
@@ -1479,7 +1473,7 @@
         {
           "name": "Blizzard Staff",
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f5/Blizzard_Staff.png"
-        }
+        },
         {
           "name": "The Horseman's Blade",
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/93/The_Horseman%27s_Blade.png"
