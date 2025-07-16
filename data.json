@@ -1,6 +1,6 @@
 {
   "$meta": {
-    "author": "rotyler"
+    "author": "crafty"
   },
   "terrariaVersion": "1.4.4.7",
   "stages": [
@@ -560,10 +560,7 @@
     {
       "name": "King Slime",
       "weapons": [
-        {
-          "name": "Gray Zapinator",
-          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0a/Gray_Zapinator.png"
-        }
+        
       ]
     },
     {
@@ -581,6 +578,10 @@
         {
           "name": "Code 1",
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/25/Code_1.png"
+        },
+        {
+          "name": "Gray Zapinator",
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0a/Gray_Zapinator.png"
         }
       ]
     },
@@ -930,22 +931,6 @@
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/cf/Palladium_Repeater.png"
         },
         {
-          "name": "Mythril Repeater",
-          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/87/Mythril_Repeater.png"
-        },
-        {
-          "name": "Orichalcum Repeater",
-          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/51/Orichalcum_Repeater.png"
-        },
-        {
-          "name": "Adamantite Repeater",
-          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d8/Adamantite_Repeater.png"
-        },
-        {
-          "name": "Titanium Repeater",
-          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5a/Titanium_Repeater.png"
-        },
-        {
           "name": "Clockwork Assault Rifle",
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/39/Clockwork_Assault_Rifle.png"
         },
@@ -956,10 +941,6 @@
         {
           "name": "Shotgun",
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/61/Shotgun.png"
-        },
-        {
-          "name": "Onyx Blaster",
-          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6b/Onyx_Blaster.png"
         },
         {
           "name": "Coin Gun",
@@ -1056,10 +1037,6 @@
         {
           "name": "Blood Thorn",
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/67/Blood_Thorn.png"
-        },
-        {
-          "name": "Spirit Flame",
-          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ea/Spirit_Flame.png"
         },
         {
           "name": "Shadowflame Hex Doll",
@@ -1161,24 +1138,20 @@
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/86/Sleepy_Octopod.png"
         },
         {
+          "name": "Mythril Repeater",
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/87/Mythril_Repeater.png"
+        },
+        {
+          "name": "Orichalcum Repeater",
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/51/Orichalcum_Repeater.png"
+        },
+        {
           "name": "Phantom Phoenix",
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a1/Phantom_Phoenix.png"
         },
         {
-          "name": "Hallowed Repeater",
-          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9f/Hallowed_Repeater.png"
-        },
-        {
-          "name": "Megashark",
-          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/36/Megashark.png"
-        },
-        {
-          "name": "Flamethrower",
-          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/ad/Flamethrower.png"
-        },
-        {
-          "name": "Super Star Shooter",
-          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d3/Super_Star_Shooter.png"
+          "name": "Onyx Blaster",
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6b/Onyx_Blaster.png"
         },
         {
           "name": "Unholy Trident",
@@ -1240,6 +1213,18 @@
         {
           "name": "Titanium Trident",
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/6b/Titanium_Trident.png"
+        },
+        {
+          "name": "Adamantite Repeater",
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d8/Adamantite_Repeater.png"
+        },
+        {
+          "name": "Titanium Repeater",
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5a/Titanium_Repeater.png"
+        },
+        {
+          "name": "Megashark",
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/36/Megashark.png"
         }
       ]
     },
@@ -1287,12 +1272,32 @@
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c0/Hallowed_Jousting_Lance.png"
         },
         {
+          "name": "Hallowed Repeater",
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9f/Hallowed_Repeater.png"
+        },
+        {
           "name": "Chlorophyte Shotbow",
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/13/Chlorophyte_Shotbow.png"
         },
         {
           "name": "Pulse Bow",
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/4/44/Pulse_Bow.png"
+        },
+        {
+          "name": "Flamethrower",
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/ad/Flamethrower.png"
+        },
+        {
+          "name": "Super Star Shooter",
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/d/d3/Super_Star_Shooter.png"
+        },
+        {
+          "name": "Venom Staff",
+          "img": "https://terraria.wiki.gg/images/f/fa/Venom_Staff.png?bcaa0a"
+        },
+        {
+          "name": "Spirit Flame",
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/ea/Spirit_Flame.png"
         },
         {
           "name": "Waffle's Iron",
@@ -1690,10 +1695,6 @@
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a6/Terrarian.png"
         },
         {
-          "name": "Zenith",
-          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/66/Zenith.png"
-        },
-        {
           "name": "S.D.M.G.",
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/04/S.D.M.G..png"
         },
@@ -1716,6 +1717,15 @@
         {
           "name": "Rainbow Crystal Staff",
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/13/Rainbow_Crystal_Staff.png"
+        }
+      ]
+    },
+    {
+      "name": "Yharon, Dragon of Rebirth",
+      "weapons": [
+        {
+          "name": "Zenith",
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/66/Zenith.png"
         }
       ]
     }
