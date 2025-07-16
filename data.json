@@ -670,7 +670,7 @@
         },
         {
           "name": "Houndius Shootius",
-          "img": "tatic.wikia.nocookie.net/terraria_gamepedia/images/c/c8/Houndius_Shootius.png"
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c8/Houndius_Shootius.png"
         }
       ]
     },
@@ -763,7 +763,7 @@
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/98/Night%27s_Edge.png"
         }
       ]
-    }
+    },
     {
       "name": "Hard Mode",
       "clearPreviousWeapons": true,
