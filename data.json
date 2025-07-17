@@ -548,6 +548,10 @@
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/37/Vampire_Frog_Staff.png"
         },
         {
+          "name": "Imp Staff",
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/72/Imp_Staff.png"
+        },
+        {
           "name": "Leather Whip",
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/85/Leather_Whip.png"
         },
@@ -576,6 +580,10 @@
         {
           "name": "Gray Zapinator",
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/0a/Gray_Zapinator.png"
+        },
+        {
+          "name": "Basher",
+          "img": "https://calamitymod.wiki.gg/images/c/c3/Basher.png?c99167"
         }
       ]
     },
@@ -601,10 +609,6 @@
         {
           "name": "Space Gun",
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a8/Space_Gun.png"
-        },
-        {
-          "name": "Imp Staff",
-          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/7/72/Imp_Staff.png"
         },
         {
           "name": "Lightning Aura Rod",
@@ -1183,10 +1187,6 @@
           "name": "Ballista Cane",
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/22/Ballista_Cane.png"
         },
-        {
-          "name": "Durendal",
-          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f0/Durendal.png"
-        }
       ]
     },
     {
@@ -1296,6 +1296,10 @@
         {
           "name": "Waffle's Iron",
           "img": "https://terraria.wiki.gg/images/b/b0/Waffle%27s_Iron.png"
+        },
+        {
+          "name": "Durendal",
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f0/Durendal.png"
         }
       ]
     },
