@@ -573,6 +573,14 @@
       "name": "Desert Scourge",
       "weapons": [
         {
+          "name": "Riptide",
+          "img": "https://calamitymod.wiki.gg/images/f/f6/Riptide.png?9ab8b9"
+        },
+        {
+          "name": "Sahara Slicers",
+          "img": "https://calamitymod.wiki.gg/images/9/9f/Sahara_Slicers.png?f0629c"
+        },
+        {
           "name": "Trimerang",
           "img": "https://terraria.wiki.gg/images/e/e0/Trimarang.png"
         },
@@ -615,6 +623,10 @@
     {
       "name": "Evil Boss",
       "weapons": [
+        {
+          "name": "Smoking Comet",
+          "img": "https://calamitymod.wiki.gg/images/3/3e/Smoking_Comet.png?9eed90"
+        },
         {
           "name": "Phaseblade",
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e2/Phaseblade.gif"
@@ -660,6 +672,14 @@
     {
       "name": "2nd Evil Boss",
       "weapons": [
+        {
+          "name": "Aorta",
+          "img": "https://calamitymod.wiki.gg/images/5/5b/Aorta.png?bf5207"
+        },
+        {
+          "name": "Air Spinner",
+          "img": "https://calamitymod.wiki.gg/images/a/a2/Air_Spinner.png?5b0b01"
+        },
         {
           "name": "Broken Biome Blade",
           "img": "https://calamitymod.wiki.gg/images/c/c9/Broken_Biome_Blade.png?539d25"
@@ -816,6 +836,10 @@
     {
       "name": "The Slime God",
       "weapons": [
+        {
+          "name": "The God's Gambit",
+          "img": "https://calamitymod.wiki.gg/images/0/05/The_God%27s_Gambit.png?17f61f"
+        },
         {
           "name": "Night's Edge",
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/98/Night%27s_Edge.png"
@@ -1161,6 +1185,10 @@
         {
           "name": "Storm Saber",
           "img": "https://calamitymod.wiki.gg/images/c/ca/Storm_Saber.png?108573"
+        },
+        {
+          "name": "Yin-Yo",
+          "img": "https://calamitymod.wiki.gg/images/5/58/Yin-Yo.png?add9fe"
         }
       ]
     },
@@ -1176,6 +1204,10 @@
     {
       "name": "Cryogen",
       "weapons": [
+        {
+          "name": "Shimmerspark",
+          "img": "https://calamitymod.wiki.gg/images/a/a5/Shimmerspark.png?6fd65a"
+        },
         {
           "name": "Avalanche",
           "img": "https://calamitymod.wiki.gg/images/e/ed/Avalanche.png?c85dc3"
@@ -1300,6 +1332,19 @@
         {
           "name": "Ballista Cane",
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/22/Ballista_Cane.png"
+        }
+      ]
+    },
+    {
+      "name": "Aquatic Scourge",
+      "weapons": [
+        {
+          "name": "Sulphurous Grabber",
+          "img": "https://calamitymod.wiki.gg/images/0/05/Sulphurous_Grabber.png?6a9e31"
+        },
+        {
+          "name": "Submarine Shocker",
+          "img": "https://calamitymod.wiki.gg/images/2/23/Submarine_Shocker.png?d1a041"
         }
       ]
     },
@@ -1445,6 +1490,10 @@
       "name": "Calamitas Clone",
       "weapons": [
         {
+          "name": "Oblivion",
+          "img": "https://calamitymod.wiki.gg/images/0/03/Oblivion.png?b7c489"
+        },
+        {
           "name": "Brimlash",
           "img": "https://calamitymod.wiki.gg/images/e/e3/Brimlash.png?e1751c"
         }
@@ -1453,6 +1502,10 @@
     {
       "name": "Plantera",
       "weapons": [
+        {
+          "name": "Quagmire",
+          "img": "https://calamitymod.wiki.gg/images/d/da/Quagmire.png?ff031d"
+        },
         {
           "name": "Mantis Claws",
           "img": "https://calamitymod.wiki.gg/images/1/12/Mantis_Claws.png?2b7051"
@@ -1709,6 +1762,14 @@
       "name": "Golem",
       "weapons": [
         {
+          "name": "Fault Line",
+          "img": "https://calamitymod.wiki.gg/images/0/09/Fault_Line.png?f2a23a"
+        },
+        {
+          "name": "Lucrecia",
+          "img": "https://calamitymod.wiki.gg/images/f/f9/Lucrecia.png?bb11f7"
+        },
+        {
           "name": "Soul Harvester",
           "img": "https://calamitymod.wiki.gg/images/6/60/Soul_Harvester.png?1af83c"
         },
@@ -1831,6 +1892,10 @@
       "name": "The Plaguebringer Goliath",
       "weapons": [
         {
+          "name": "Pandemic",
+          "img": "https://calamitymod.wiki.gg/images/c/c8/Pandemic.png?f0e358"
+        },
+        {
           "name": "Exalted Oathblade",
           "img": "https://calamitymod.wiki.gg/images/0/07/Exalted_Oathblade.png?7498ad"
         },
@@ -1935,6 +2000,10 @@
       "name": "Astrum Deus",
       "weapons": [
         {
+          "name": "The Microwave",
+          "img": "https://calamitymod.wiki.gg/images/0/06/The_Microwave.png?94b09c"
+        },
+        {
           "name": "Astral Blade",
           "img": "https://calamitymod.wiki.gg/images/1/1a/Astral_Blade.png?28c156"
         },
@@ -1948,6 +2017,22 @@
       "name": "Moon Lord",
       "clearPreviousWeapons": true,
       "weapons": [
+        {
+          "name": "Elemental Shiv",
+          "img": "https://calamitymod.wiki.gg/images/6/6c/Elemental_Shiv.png?ee2ae0"
+        },
+        {
+          "name": "Stellar Striker",
+          "img": "https://calamitymod.wiki.gg/images/d/df/Stellar_Striker.png?71b537"
+        },
+        {
+          "name": "Solstice Claymore",
+          "img": "https://calamitymod.wiki.gg/images/7/74/Solstice_Claymore.png?161d4f"
+        },
+        {
+          "name": "Plague Keeper",
+          "img": "https://calamitymod.wiki.gg/images/9/95/Plague_Keeper.png?66b992"
+        },
         {
           "name": "Star Wrath",
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/83/Star_Wrath.png"
@@ -1995,8 +2080,33 @@
       ]
     },
     {
+      "name": "Dragonfolly",
+      "weapons": [
+        {
+          "name": "Swordsplosion",
+          "img": "https://calamitymod.wiki.gg/images/2/22/Swordsplosion.png?9b2b05"
+        }
+      ]
+    },
+    {
       "name": "Providence, the Profaned Goddess",
       "weapons": [
+        {
+          "name": "Lacerator",
+          "img": "https://calamitymod.wiki.gg/images/8/88/Lacerator.png?ad4742"
+        },
+        {
+          "name": "Burning Revelation",
+          "img": "https://calamitymod.wiki.gg/images/6/67/Burning_Revelation.png?57a5be"
+        },
+        {
+          "name": "Terratomere",
+          "img": "https://calamitymod.wiki.gg/images/5/5c/Terratomere.png?57c796"
+        },
+        {
+          "name": "The Mutilator",
+          "img": "https://calamitymod.wiki.gg/images/0/00/The_Mutilator.png?e01e15"
+        },
         {
           "name": "Defiled Greatsword",
           "img": "https://calamitymod.wiki.gg/images/c/cd/Defiled_Greatsword.png?62aa09"
@@ -2020,8 +2130,29 @@
       ]
     },
     {
+      "name": "Ceaseless Void",
+      "weapons": [
+        {
+          "name": "Mirror Blade",
+          "img": "https://calamitymod.wiki.gg/images/6/60/Mirror_Blade.png?80f248"
+        }
+      ]
+    },
+    {
       "name": "Polterghast",
       "weapons": [
+        {
+          "name": "Galileo Gladius",
+          "img": "https://calamitymod.wiki.gg/images/5/51/Galileo_Gladius.png?e914c4"
+        },
+        {
+          "name": "Void Edge",
+          "img": "https://calamitymod.wiki.gg/images/b/b5/Void_Edge.png?84b6d5"
+        },
+        {
+          "name": "Terror Blade",
+          "img": "https://calamitymod.wiki.gg/images/6/60/Terror_Blade.png?22d688"
+        },
         {
           "name": "The Last Mourning",
           "img": "https://calamitymod.wiki.gg/images/8/8e/The_Last_Mourning.png?cb660e"
@@ -2035,6 +2166,18 @@
     {
       "name": "The Devourer of Gods",
       "weapons": [
+        {
+          "name": "The Obliterator",
+          "img": "https://calamitymod.wiki.gg/images/a/a6/The_Obliterator.png?36303f"
+        },
+        {
+          "name": "Cosmic Shiv",
+          "img": "https://calamitymod.wiki.gg/images/9/97/Cosmic_Shiv.png?66f5d0"
+        },
+        {
+          "name": "Orderbringer",
+          "img": "https://calamitymod.wiki.gg/images/e/e2/Orderbringer.png?e2f8f3"
+        },
         {
           "name": "Devil's Devastation",
           "img": "https://calamitymod.wiki.gg/images/b/be/Devil%27s_Devastation.png?92755d"
@@ -2057,6 +2200,10 @@
       "name": "Yharon, Dragon of Rebirth",
       "weapons": [
         {
+          "name": "The Oracle",
+          "img": "https://calamitymod.wiki.gg/images/a/a1/The_Oracle.png?c52d65"
+        },
+        {
           "name": "Zenith",
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/66/Zenith.png"
         },
@@ -2069,6 +2216,14 @@
     {
       "name": "Supreme Witch, Calamitas",
       "weapons": [
+        {
+          "name": "Ozzathoth",
+          "img": "https://calamitymod.wiki.gg/images/9/9d/Ozzathoth.png?ab3bec"
+        },
+        {
+          "name": "Red Sun",
+          "img": "https://calamitymod.wiki.gg/images/3/36/Red_Sun.png?c06cb5"
+        },
         {
           "name": "Draconic Destruction",
           "img": "https://calamitymod.wiki.gg/images/f/f4/Draconic_Destruction.png?b4b946"
