@@ -566,12 +566,24 @@
         {
           "name": "Feller of Evergreens",
           "img": "https://calamitymod.wiki.gg/images/2/21/Feller_of_Evergreens.png?3722c5"
+        },
+        {
+          "name": "Yatevo Bloom",
+          "img": "https://calamitymod.wiki.gg/images/6/61/Yateveo_Bloom.png?f31991"
         }
       ]
     },
     {
       "name": "Desert Scourge",
       "weapons": [
+        {
+          "name": "Redtide Spear",
+          "img": "https://calamitymod.wiki.gg/images/5/50/Redtide_Spear.png?dc7c84"
+        },
+        {
+          "name": "Amidas' Trident",
+          "img": "https://calamitymod.wiki.gg/images/7/78/Amidias%27_Trident.png?27e14d"
+        },
         {
           "name": "Riptide",
           "img": "https://calamitymod.wiki.gg/images/f/f6/Riptide.png?9ab8b9"
@@ -672,6 +684,14 @@
     {
       "name": "2nd Evil Boss",
       "weapons": [
+        {
+          "name": "Sausage Maker",
+          "img": "https://calamitymod.wiki.gg/images/6/6a/Sausage_Maker.png?4c4acd"
+        },
+        {
+          "name": "Goldplume Spear",
+          "img": "https://calamitymod.wiki.gg/images/8/8f/Goldplume_Spear.png?d4cdca"
+        },
         {
           "name": "Aorta",
           "img": "https://calamitymod.wiki.gg/images/5/5b/Aorta.png?bf5207"
@@ -854,6 +874,10 @@
       "name": "Hard Mode",
       "clearPreviousWeapons": true,
       "weapons": [
+        {
+          "name": "Earthen Pike",
+          "img": "https://calamitymod.wiki.gg/images/a/ac/Earthen_Pike.png?10dbea"
+        },
         {
           "name": "Pearlwood Sword",
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9f/Pearlwood_Sword.png"
@@ -1230,6 +1254,10 @@
       "name": "The Twins",
       "weapons": [
         {
+          "name": "Starnight Lance",
+          "img": "https://calamitymod.wiki.gg/images/b/bf/Starnight_Lance.png?602154"
+        },
+        {
           "name": "Brimstone Sword",
           "img": "https://calamitymod.wiki.gg/images/e/e1/Brimstone_Sword.png?cecbc7"
         },
@@ -1390,6 +1418,15 @@
       ]
     },
     {
+      "name": "Brimstone Elemental",
+      "weapons": [
+        {
+          "name": "Brimlance",
+          "img": "https://calamitymod.wiki.gg/images/5/5e/Brimlance.png?7ce335"
+        }
+      ]
+    },
+    {
       "name": "Skeletron Prime",
       "weapons": [
         {
@@ -1502,6 +1539,14 @@
     {
       "name": "Plantera",
       "weapons": [
+        {
+          "name": "Hellion Flower Spear",
+          "img": "https://calamitymod.wiki.gg/images/a/a4/Hellion_Flower_Spear.png?a43207"
+        },
+        {
+          "name": "Botanic Piercer",
+          "img": "https://calamitymod.wiki.gg/images/9/90/Botanic_Piercer.png?d1ae50"
+        },
         {
           "name": "Quagmire",
           "img": "https://calamitymod.wiki.gg/images/d/da/Quagmire.png?ff031d"
@@ -1762,6 +1807,10 @@
       "name": "Golem",
       "weapons": [
         {
+          "name": "Vulcanite Lance",
+          "img": "https://calamitymod.wiki.gg/images/7/76/Vulcanite_Lance.png?d06edd"
+        },
+        {
           "name": "Fault Line",
           "img": "https://calamitymod.wiki.gg/images/0/09/Fault_Line.png?f2a23a"
         },
@@ -1892,6 +1941,14 @@
       "name": "The Plaguebringer Goliath",
       "weapons": [
         {
+          "name": "Galvanizing Glaive",
+          "img": "https://calamitymod.wiki.gg/images/d/d0/Galvanizing_Glaive.png?e8b92d"
+        },
+        {
+          "name": "Diseased Pike",
+          "img": "https://calamitymod.wiki.gg/images/6/64/Diseased_Pike.png?ab57ba"
+        },
+        {
           "name": "Pandemic",
           "img": "https://calamitymod.wiki.gg/images/c/c8/Pandemic.png?f0e358"
         },
@@ -1947,6 +2004,10 @@
       "name": "Cultist",
       "weapons": [
         {
+          "name": "Tenebreus Tides",
+          "img": "https://calamitymod.wiki.gg/images/b/bf/Tenebreus_Tides.png?a1ea70"
+        },
+        {
           "name": "Storm Ruler",
           "img": "https://calamitymod.wiki.gg/images/1/15/Storm_Ruler.png?7c8842"
         },
@@ -2000,6 +2061,10 @@
       "name": "Astrum Deus",
       "weapons": [
         {
+          "name": "Astral Pike",
+          "img": "https://calamitymod.wiki.gg/images/a/a0/Astral_Pike.png?ba3a3b"
+        },
+        {
           "name": "The Microwave",
           "img": "https://calamitymod.wiki.gg/images/0/06/The_Microwave.png?94b09c"
         },
@@ -2017,6 +2082,10 @@
       "name": "Moon Lord",
       "clearPreviousWeapons": true,
       "weapons": [
+        {
+          "name": "Elemental Lance",
+          "img": "https://calamitymod.wiki.gg/images/9/99/Elemental_Lance.png?eebead"
+        },
         {
           "name": "Elemental Shiv",
           "img": "https://calamitymod.wiki.gg/images/6/6c/Elemental_Shiv.png?ee2ae0"
@@ -2083,6 +2152,10 @@
       "name": "Dragonfolly",
       "weapons": [
         {
+          "name": "Gilded Proboscis",
+          "img": "https://calamitymod.wiki.gg/images/1/14/Gilded_Proboscis.png?82ed11"
+        },
+        {
           "name": "Swordsplosion",
           "img": "https://calamitymod.wiki.gg/images/2/22/Swordsplosion.png?9b2b05"
         }
@@ -2091,6 +2164,10 @@
     {
       "name": "Providence, the Profaned Goddess",
       "weapons": [
+        {
+          "name": "Seeking Scorcher",
+          "img": "https://calamitymod.wiki.gg/images/5/5d/Seeking_Scorcher.png?cd21b6"
+        },
         {
           "name": "Lacerator",
           "img": "https://calamitymod.wiki.gg/images/8/88/Lacerator.png?ad4742"
@@ -2142,6 +2219,10 @@
       "name": "Polterghast",
       "weapons": [
         {
+          "name": "Banshee Hook",
+          "img": "https://calamitymod.wiki.gg/images/1/1e/Banshee_Hook.png?c5e00d"
+        },
+        {
           "name": "Galileo Gladius",
           "img": "https://calamitymod.wiki.gg/images/5/51/Galileo_Gladius.png?e914c4"
         },
@@ -2166,6 +2247,10 @@
     {
       "name": "The Devourer of Gods",
       "weapons": [
+        {
+          "name": "Nadir",
+          "img": "https://calamitymod.wiki.gg/images/d/d0/Nadir.png?152228"
+        },
         {
           "name": "The Obliterator",
           "img": "https://calamitymod.wiki.gg/images/a/a6/The_Obliterator.png?36303f"
@@ -2216,6 +2301,10 @@
     {
       "name": "Supreme Witch, Calamitas",
       "weapons": [
+        {
+          "name": "Triactis' True Paladinian Mage-Hammer of Might",
+          "img": "https://calamitymod.wiki.gg/images/0/0c/Triactis%27_True_Paladinian_Mage-Hammer_of_Might.png?2cfc37"
+        },
         {
           "name": "Ozzathoth",
           "img": "https://calamitymod.wiki.gg/images/9/9d/Ozzathoth.png?ab3bec"
