@@ -8,6 +8,26 @@
       "name": "Pre Hardmode",
       "weapons": [
         {
+          "name": "Wulfrum Screwdriver",
+          "img": "https://calamitymod.wiki.gg/images/1/16/Wulfrum_Screwdriver.png?5deb5c"
+        },
+        {
+          "name": "Old Lord Claymore",
+          "img": "https://calamitymod.wiki.gg/images/a/a7/Old_Lord_Claymore.png?1f0bd9"
+        },
+        {
+          "name": "Monsterous Knives",
+          "img": "https://calamitymod.wiki.gg/images/5/5e/Monstrous_Knives.png?2ce3f8"
+        },
+        {
+          "name": "Depth Crusher",
+          "img": "https://calamitymod.wiki.gg/images/8/8e/Depth_Crusher.png?4f9ba9"
+        },
+        {
+          "name": "Bladecrest Oathsword",
+          "img": "https://calamitymod.wiki.gg/images/6/62/Bladecrest_Oathsword.png?ffba45"
+        },
+        {
           "name": "Copper Shortsword",
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/8/8b/Copper_Shortsword.png"
         },
@@ -577,6 +597,14 @@
       "name": "Desert Scourge",
       "weapons": [
         {
+          "name": "Urchin Mace",
+          "img": "https://calamitymod.wiki.gg/images/1/18/Urchin_Mace.png?ada051"
+        },
+        {
+          "name": "Urchin Flail",
+          "img": "https://calamitymod.wiki.gg/images/3/35/Urchin_Flail.png?c2cd6a"
+        },
+        {
           "name": "Redtide Spear",
           "img": "https://calamitymod.wiki.gg/images/5/50/Redtide_Spear.png?dc7c84"
         },
@@ -685,6 +713,10 @@
       "name": "2nd Evil Boss",
       "weapons": [
         {
+          "name": "Broken Biome Blade",
+          "img": "https://calamitymod.wiki.gg/images/c/c9/Broken_Biome_Blade.png?539d25"
+        },
+        {
           "name": "Sausage Maker",
           "img": "https://calamitymod.wiki.gg/images/6/6a/Sausage_Maker.png?4c4acd"
         },
@@ -776,6 +808,10 @@
       "name": "Skeletron",
       "weapons": [
         {
+          "name": "Ball O' Fugu",
+          "img": "https://calamitymod.wiki.gg/images/6/68/Ball_O%27_Fugu.png?8da72e"
+        },
+        {
           "name": "Muramasa",
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c2/Muramasa.png"
         },
@@ -857,6 +893,10 @@
       "name": "The Slime God",
       "weapons": [
         {
+          "name": "Fractured Ark",
+          "img": "https://calamitymod.wiki.gg/images/b/b3/Fractured_Ark.png?e4ef87"
+        },
+        {
           "name": "The God's Gambit",
           "img": "https://calamitymod.wiki.gg/images/0/05/The_God%27s_Gambit.png?17f61f"
         },
@@ -874,6 +914,10 @@
       "name": "Hard Mode",
       "clearPreviousWeapons": true,
       "weapons": [
+        {
+          "name": "Clam Crusher",
+          "img": "https://calamitymod.wiki.gg/images/7/76/Clam_Crusher.png?4f8f61"
+        },
         {
           "name": "Earthen Pike",
           "img": "https://calamitymod.wiki.gg/images/a/ac/Earthen_Pike.png?10dbea"
@@ -1367,6 +1411,10 @@
       "name": "Aquatic Scourge",
       "weapons": [
         {
+          "name": "Bonebreaker",
+          "img": "https://calamitymod.wiki.gg/images/8/87/Bonebreaker.png?22626a"
+        },
+        {
           "name": "Sulphurous Grabber",
           "img": "https://calamitymod.wiki.gg/images/0/05/Sulphurous_Grabber.png?6a9e31"
         },
@@ -1429,6 +1477,14 @@
     {
       "name": "Skeletron Prime",
       "weapons": [
+        {
+          "name": "Pwnagehammer",
+          "img": "https://calamitymod.wiki.gg/images/b/b0/Pwnagehammer.png?e350d8"
+        },
+        {
+          "name": "Biome Blade",
+          "img": "https://calamitymod.wiki.gg/images/d/dd/Biome_Blade.png?2ba978"
+        },
         {
           "name": "Inferna Cutter",
           "img": "https://calamitymod.wiki.gg/images/a/ae/Inferna_Cutter.png?3917d6"
@@ -1539,6 +1595,14 @@
     {
       "name": "Plantera",
       "weapons": [
+        {
+          "name": "Ark of the Ancients",
+          "img": "https://calamitymod.wiki.gg/images/8/87/Ark_of_the_Ancients.png?c9626e"
+        },
+        {
+          "name": "Tumbleweed",
+          "img": "https://calamitymod.wiki.gg/images/c/c1/Tumbleweed.png?b7326c"
+        },
         {
           "name": "Hellion Flower Spear",
           "img": "https://calamitymod.wiki.gg/images/a/a4/Hellion_Flower_Spear.png?a43207"
@@ -1781,6 +1845,14 @@
       "name": "Leviathan and Anahita",
       "weapons": [
         {
+          "name": "Typhon's Greed",
+          "img": "https://calamitymod.wiki.gg/images/8/81/Typhon%27s_Greed.png?585201"
+        },
+        {
+          "name": "Abyss Blade",
+          "img": "https://calamitymod.wiki.gg/images/f/f9/Abyss_Blade.png?5dbd69"
+        },
+        {
           "name": "Floodtide",
           "img": "https://calamitymod.wiki.gg/images/7/71/Floodtide.png?4ced30"
         },
@@ -1794,6 +1866,10 @@
       "name": "Astrum Aureus",
       "weapons": [
         {
+          "name": "Nebulash",
+          "img": "https://calamitymod.wiki.gg/images/9/92/Nebulash.png?d3edb2"
+        },
+        {
           "name": "Astral Scythe",
           "img": "https://calamitymod.wiki.gg/images/9/9e/Astral_Scythe.png?1720d0"
         },
@@ -1806,6 +1882,18 @@
     {
       "name": "Golem",
       "weapons": [
+        {
+          "name": "Stygian Shield",
+          "img": "https://calamitymod.wiki.gg/images/3/37/Stygian_Shield.png?560be2"
+        },
+        {
+          "name": "Omniblade",
+          "img": "https://calamitymod.wiki.gg/images/e/ed/Omniblade.png?398371"
+        },
+        {
+          "name": "Fallen Paladin's Hammer",
+          "img": "https://calamitymod.wiki.gg/images/e/e4/Fallen_Paladin%27s_Hammer.png?9d123d"
+        },
         {
           "name": "Vulcanite Lance",
           "img": "https://calamitymod.wiki.gg/images/7/76/Vulcanite_Lance.png?d06edd"
@@ -2004,6 +2092,10 @@
       "name": "Cultist",
       "weapons": [
         {
+          "name": "Respiteblock",
+          "img": "https://calamitymod.wiki.gg/images/0/0e/Respiteblock.png?3a31da"
+        },
+        {
           "name": "Tenebreus Tides",
           "img": "https://calamitymod.wiki.gg/images/b/bf/Tenebreus_Tides.png?a1ea70"
         },
@@ -2061,6 +2153,10 @@
       "name": "Astrum Deus",
       "weapons": [
         {
+          "name": "True Biome Blade",
+          "img": "https://calamitymod.wiki.gg/images/2/2c/True_Biome_Blade.png?6daedc"
+        },
+        {
           "name": "Astral Pike",
           "img": "https://calamitymod.wiki.gg/images/a/a0/Astral_Pike.png?ba3a3b"
         },
@@ -2082,6 +2178,18 @@
       "name": "Moon Lord",
       "clearPreviousWeapons": true,
       "weapons": [
+        {
+          "name": "Stellar Contempt",
+          "img": "https://calamitymod.wiki.gg/images/6/64/Stellar_Contempt.png?a6c509"
+        },
+        {
+          "name": "Ark of the Elements",
+          "img": "https://calamitymod.wiki.gg/images/5/53/Ark_of_the_Elements.png?4cf499"
+        },
+        {
+          "name": "Rem's Revenge",
+          "img": "https://calamitymod.wiki.gg/images/8/89/Rem%27s_Revenge.png?1a0152"
+        },
         {
           "name": "Elemental Lance",
           "img": "https://calamitymod.wiki.gg/images/9/99/Elemental_Lance.png?eebead"
@@ -2165,6 +2273,18 @@
       "name": "Providence, the Profaned Goddess",
       "weapons": [
         {
+          "name": "Devil's Sunrise",
+          "img": "https://calamitymod.wiki.gg/images/5/5f/Devil%27s_Sunrise.png?d71aa4"
+        },
+        {
+          "name": "Pulse Dragon",
+          "img": "https://calamitymod.wiki.gg/images/d/d0/Pulse_Dragon.png?1bb357"
+        },
+        {
+          "name": "Mourningstar",
+          "img": "https://calamitymod.wiki.gg/images/0/06/Mourningstar.png?f0be36"
+        },
+        {
           "name": "Seeking Scorcher",
           "img": "https://calamitymod.wiki.gg/images/5/5d/Seeking_Scorcher.png?cd21b6"
         },
@@ -2219,6 +2339,22 @@
       "name": "Polterghast",
       "weapons": [
         {
+          "name": "Phosphorescent Gauntlet",
+          "img": "https://calamitymod.wiki.gg/images/0/03/Phosphorescent_Gauntlet.png?4eeff2"
+        },
+        {
+          "name": "Neptune's Bounty",
+          "img": "https://calamitymod.wiki.gg/images/e/e7/Neptune%27s_Bounty.png?585ae5"
+        },
+        {
+          "name": "Death's Ascension",
+          "img": "https://calamitymod.wiki.gg/images/a/a1/Death%27s_Ascension.png?8a9f02"
+        },
+        {
+          "name": "Crescent Moon",
+          "img": "https://calamitymod.wiki.gg/images/e/e7/Crescent_Moon.png?384242"
+        },
+        {
           "name": "Banshee Hook",
           "img": "https://calamitymod.wiki.gg/images/1/1e/Banshee_Hook.png?c5e00d"
         },
@@ -2245,8 +2381,49 @@
       ]
     },
     {
+      "name": "The Old Duke",
+      "weapons": [
+        {
+          "name": "Insidious Impaler",
+          "img": "https://calamitymod.wiki.gg/images/9/96/Insidious_Impaler.png?1508a7"
+        }
+      ]
+    },
+    {
       "name": "The Devourer of Gods",
       "weapons": [
+        {
+          "name": "Stream Gouge",
+          "img": "https://calamitymod.wiki.gg/images/b/be/Stream_Gouge.png?9e8b43"
+        },
+        {
+          "name": "Scourge of the Cosmos",
+          "img": "https://calamitymod.wiki.gg/images/3/34/Scourge_of_the_Cosmos.png?72c4f6"
+        },
+        {
+          "name": "Phaseslayer",
+          "img": "https://calamitymod.wiki.gg/images/d/d2/Phaseslayer.png?60b3ce"
+        },
+        {
+          "name": "Murasama",
+          "img": "https://calamitymod.wiki.gg/images/9/95/Murasama.gif?4849e4"
+        },
+        {
+          "name": "Galaxy Smasher",
+          "img": "https://calamitymod.wiki.gg/images/8/85/Galaxy_Smasher.png?996566"
+        },
+        {
+          "name": "Galaxia",
+          "img": "https://calamitymod.wiki.gg/images/e/e4/Galaxia_Cancer.gif?2aa5fa"
+        },
+        {
+          "name": "Empyrean Knives",
+          "img": "https://calamitymod.wiki.gg/images/5/53/Empyrean_Knives.png?7b5708"
+        },
+        {
+          "name": "Cosmic Discharge",
+          "img": "https://calamitymod.wiki.gg/images/f/fd/Cosmic_Discharge.png?e0eaea"
+        },
         {
           "name": "Nadir",
           "img": "https://calamitymod.wiki.gg/images/d/d0/Nadir.png?152228"
@@ -2285,6 +2462,22 @@
       "name": "Yharon, Dragon of Rebirth",
       "weapons": [
         {
+          "name": "Dragon Rage",
+          "img": "https://calamitymod.wiki.gg/images/d/d2/Dragon_Rage.png?6ec954"
+        },
+        {
+          "name": "The Burning Sky",
+          "img": "https://calamitymod.wiki.gg/images/0/03/The_Burning_Sky.png?a5106b"
+        },
+        {
+          "name": "Ark of the Cosmos",
+          "img": "https://calamitymod.wiki.gg/images/f/f6/Ark_of_the_Cosmos.png?9156c5"
+        },
+        {
+          "name": "Dragon Pow",
+          "img": "https://calamitymod.wiki.gg/images/4/44/Dragon_Pow.png?17a198"
+        },
+        {
           "name": "The Oracle",
           "img": "https://calamitymod.wiki.gg/images/a/a1/The_Oracle.png?c52d65"
         },
@@ -2299,8 +2492,33 @@
       ]
     },
     {
+      "name": "Exo Mechs",
+      "weapons": [
+        {
+          "name": "Photon Ripper",
+          "img": "https://calamitymod.wiki.gg/images/2/2d/Photon_Ripper.png?70ac10"
+        },
+        {
+          "name": "Exoblade",
+          "img": "https://calamitymod.wiki.gg/images/b/b2/Exoblade.png?b4f892"
+        },
+        {
+          "name": "Spine of Thanatos",
+          "img": "https://calamitymod.wiki.gg/images/5/5a/Spine_of_Thanatos.png?8bbe90"
+        }
+      ]
+    },
+    {
       "name": "Supreme Witch, Calamitas",
       "weapons": [
+        {
+          "name": "Violence",
+          "img": "https://calamitymod.wiki.gg/images/e/e4/Violence.png?5438f6"
+        },
+        {
+          "name": "Illustrious Knives",
+          "img": "https://calamitymod.wiki.gg/images/f/f7/Illustrious_Knives.png?2092e2"
+        },
         {
           "name": "Triactis' True Paladinian Mage-Hammer of Might",
           "img": "https://calamitymod.wiki.gg/images/0/0c/Triactis%27_True_Paladinian_Mage-Hammer_of_Might.png?2cfc37"
