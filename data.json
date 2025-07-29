@@ -8,6 +8,26 @@
       "name": "Pre Hardmode",
       "weapons": [
         {
+          "name": "Wulfrum Blunderbuss",
+          "img": "https://calamitymod.wiki.gg/images/9/9c/Wulfrum_Blunderbuss.png?dc7479"
+        },
+        {
+          "name": "Pumpler",
+          "img": "https://calamitymod.wiki.gg/images/c/ca/Pumpler.png?fb4969"
+        },
+        {
+          "name": "Firestorm Cannon",
+          "img": "https://calamitymod.wiki.gg/images/1/13/Firestorm_Cannon.png?f6d974"
+        },
+        {
+          "name": "Spark Spreader",
+          "img": "https://calamitymod.wiki.gg/images/f/f5/Spark_Spreader.png?10cd11"
+        },
+        {
+          "name": "Dragoon Drizzlefish",
+          "img": "https://calamitymod.wiki.gg/images/c/c0/Dragoon_Drizzlefish.png?e9359b"
+        },
+        {
           "name": "Wulfrum Screwdriver",
           "img": "https://calamitymod.wiki.gg/images/1/16/Wulfrum_Screwdriver.png?5deb5c"
         },
@@ -601,6 +621,18 @@
       "name": "Desert Scourge",
       "weapons": [
         {
+          "name": "Storm Surge",
+          "img": "https://calamitymod.wiki.gg/images/0/0a/Storm_Surge.png?64aa18"
+        },
+        {
+          "name": "Reed Blowgun",
+          "img": "https://calamitymod.wiki.gg/images/3/3f/Reed_Blowgun.png?4a2772"
+        },
+        {
+          "name": "Coral Cannon",
+          "img": "https://calamitymod.wiki.gg/images/c/cd/Coral_Cannon.png?6d2612"
+        },
+        {
           "name": "Shellshooter",
           "img": "https://calamitymod.wiki.gg/images/6/68/Shellshooter.png?2acc7f"
         },
@@ -684,6 +716,14 @@
       "name": "Evil Boss",
       "weapons": [
         {
+          "name": "Opal Striker",
+          "img": "https://calamitymod.wiki.gg/images/4/42/Opal_Striker.png?71cac0"
+        },
+        {
+          "name": "Magna Cannon",
+          "img": "https://calamitymod.wiki.gg/images/9/9e/Magna_Cannon.png?bcc7f1"
+        },
+        {
           "name": "Smoking Comet",
           "img": "https://calamitymod.wiki.gg/images/3/3e/Smoking_Comet.png?9eed90"
         },
@@ -732,6 +772,18 @@
     {
       "name": "2nd Evil Boss",
       "weapons": [
+        {
+          "name": "Taser",
+          "img": "https://calamitymod.wiki.gg/images/0/08/Taser.png?835149"
+        },
+        {
+          "name": "Flurrystorm Cannon",
+          "img": "https://calamitymod.wiki.gg/images/5/5f/Flurrystorm_Cannon.png?e9a443"
+        },
+        {
+          "name": "Shadethrower",
+          "img": "https://calamitymod.wiki.gg/images/5/53/Shadethrower.png?bcef92"
+        },
         {
           "name": "Eviscerator",
           "img": "https://calamitymod.wiki.gg/images/2/20/Eviscerator.png?abcac7"
@@ -929,6 +981,10 @@
       "name": "The Slime God",
       "weapons": [
         {
+          "name": "Overloaded Blaster",
+          "img": "https://calamitymod.wiki.gg/images/2/28/Overloaded_Blaster.png?5e536b"
+        },
+        {
           "name": "Gunk Shot",
           "img": "https://calamitymod.wiki.gg/images/b/b4/Gunk_Shot.png?8d18ec"
         },
@@ -962,6 +1018,14 @@
       "name": "Hard Mode",
       "clearPreviousWeapons": true,
       "weapons": [
+        {
+          "name": "Polaris Parrotfish",
+          "img": "https://calamitymod.wiki.gg/images/2/2a/Polaris_Parrotfish.png?d10aaf"
+        },
+        {
+          "name": "Meowthrower",
+          "img": "https://calamitymod.wiki.gg/images/5/54/Meowthrower.png?a379d7"
+        },
         {
           "name": "Thermocline Blaster",
           "img": "https://calamitymod.wiki.gg/images/c/c3/Thermocline_Blaster.png?2c3041"
@@ -1386,6 +1450,10 @@
       "name": "The Twins",
       "weapons": [
         {
+          "name": "Speed Blaster",
+          "img": "https://calamitymod.wiki.gg/images/6/69/Speed_Blaster.png?1666e5"
+        },
+        {
           "name": "Deepcore GK2",
           "img": "https://calamitymod.wiki.gg/images/7/71/Deepcore_GK2.png?459f31"
         },
@@ -1515,6 +1583,14 @@
       "name": "Aquatic Scourge",
       "weapons": [
         {
+          "name": "Sea's Searing",
+          "img": "https://calamitymod.wiki.gg/images/2/20/Sea%27s_Searing.png?a927f6"
+        },
+        {
+          "name": "Flak Toxicannon",
+          "img": "https://calamitymod.wiki.gg/images/a/ad/Flak_Toxicannon.png?db8293"
+        },
+        {
           "name": "Corroded Caustibow",
           "img": "https://calamitymod.wiki.gg/images/e/e3/Corroded_Caustibow.png?cfeb5d"
         },
@@ -1539,6 +1615,18 @@
     {
       "name": "The Destroyer",
       "weapons": [
+        {
+          "name": "Titanium Railgun",
+          "img": "https://calamitymod.wiki.gg/images/0/0b/Titanium_Railgun.png?88560a"
+        },
+        {
+          "name": "Adamantite Particle Accelerator",
+          "img": "https://calamitymod.wiki.gg/images/c/c4/Adamantite_Particle_Accelerator.png?96f042"
+        },
+        {
+          "name": "Mineral Mortar",
+          "img": "https://calamitymod.wiki.gg/images/b/bf/Mineral_Mortar.png?642d22"
+        },
         {
           "name": "Majestic Guard",
           "img": "https://calamitymod.wiki.gg/images/b/b3/Majestic_Guard.png?c0fe40"
@@ -1593,6 +1681,14 @@
     {
       "name": "Skeletron Prime",
       "weapons": [
+        {
+          "name": "Matter Modulator",
+          "img": "https://calamitymod.wiki.gg/images/3/35/Matter_Modulator.png?86cffa"
+        },
+        {
+          "name": "Buzzkill",
+          "img": "https://calamitymod.wiki.gg/images/7/7e/Buzzkill.png?8f6400"
+        },
         {
           "name": "Pwnagehammer",
           "img": "https://calamitymod.wiki.gg/images/b/b0/Pwnagehammer.png?e350d8"
@@ -1695,6 +1791,10 @@
       "name": "Calamitas Clone",
       "weapons": [
         {
+          "name": "Havoc's Breath",
+          "img": "https://calamitymod.wiki.gg/images/1/1d/Havoc%27s_Breath.png?f499a0"
+        },
+        {
           "name": "Animosity",
           "img": "https://calamitymod.wiki.gg/images/c/c9/Animosity.png?f44b1c"
         },
@@ -1711,6 +1811,14 @@
     {
       "name": "Plantera",
       "weapons": [
+        {
+          "name": "Sandstorm",
+          "img": "https://calamitymod.wiki.gg/images/1/10/Sandstorm_%28weapon%29.png?b3cfcf"
+        },
+        {
+          "name": "Wildfire Bloom",
+          "img": "https://calamitymod.wiki.gg/images/6/68/Wildfire_Bloom.png?4739f1"
+        },
         {
           "name": "Hydra",
           "img": "https://calamitymod.wiki.gg/images/9/9d/Hydra.png?a9d2b3"
@@ -1993,6 +2101,10 @@
       "name": "Leviathan and Anahita",
       "weapons": [
         {
+          "name": "Flak Kraken",
+          "img": "https://calamitymod.wiki.gg/images/e/e1/Flak_Kraken.png?51682c"
+        },
+        {
           "name": "Megalodon",
           "img": "https://calamitymod.wiki.gg/images/3/36/Megalodon.png?2d8e07"
         },
@@ -2022,6 +2134,14 @@
       "name": "Astrum Aureus",
       "weapons": [
         {
+          "name": "Stellar Cannon",
+          "img": "https://calamitymod.wiki.gg/images/1/1c/Stellar_Cannon.png?a9237c"
+        },
+        {
+          "name": "Aurora Blazer",
+          "img": "https://calamitymod.wiki.gg/images/2/2d/Aurora_Blazer.png?ce6551"
+        },
+        {
           "name": "Nebulash",
           "img": "https://calamitymod.wiki.gg/images/9/92/Nebulash.png?d3edb2"
         },
@@ -2038,6 +2158,18 @@
     {
       "name": "Golem",
       "weapons": [
+        {
+          "name": "Nullification Pistol",
+          "img": "https://calamitymod.wiki.gg/images/4/4a/Nullification_Pistol.png?60bfe4"
+        },
+        {
+          "name": "Barracuda Gun",
+          "img": "https://calamitymod.wiki.gg/images/9/9a/Barracuda_Gun.png?b10bd2"
+        },
+        {
+          "name": "Arc Nova Diffuser",
+          "img": "https://calamitymod.wiki.gg/images/7/75/Arc_Nova_Diffuser.png?7339cf"
+        },
         {
           "name": "Helstorm",
           "img": "https://calamitymod.wiki.gg/images/b/b9/Helstorm.png?4b28c2"
@@ -2197,6 +2329,18 @@
       "name": "The Plaguebringer Goliath",
       "weapons": [
         {
+          "name": "Gauss Rifle",
+          "img": "https://calamitymod.wiki.gg/images/3/3e/Gauss_Rifle.png?daaf11"
+        },
+        {
+          "name": "Blight Spewer",
+          "img": "https://calamitymod.wiki.gg/images/3/31/Blight_Spewer.png?a60463"
+        },
+        {
+          "name": "The Hive",
+          "img": "https://calamitymod.wiki.gg/images/9/92/The_Hive.png?bebe5d"
+        },
+        {
           "name": "Plague Tainted SMG",
           "img": "https://calamitymod.wiki.gg/images/9/98/Plague_Tainted_SMG.png?291efc"
         },
@@ -2276,6 +2420,18 @@
       "name": "Cultist",
       "weapons": [
         {
+          "name": "Spectralstorm Cannon",
+          "img": "https://calamitymod.wiki.gg/images/6/66/Spectralstorm_Cannon.png?9c521c"
+        },
+        {
+          "name": "Dead Sun's Wind",
+          "img": "https://calamitymod.wiki.gg/images/2/25/Dead_Sun%27s_Wind.png?3f65ab"
+        },
+        {
+          "name": "Scorpio",
+          "img": "https://calamitymod.wiki.gg/images/6/69/Scorpio.png?70317c"
+        },
+        {
           "name": "Vortexpopper",
           "img": "https://calamitymod.wiki.gg/images/e/e5/Vortexpopper.png?bd1178"
         },
@@ -2349,6 +2505,10 @@
       "name": "Astrum Deus",
       "weapons": [
         {
+          "name": "Star Sputter",
+          "img": "https://calamitymod.wiki.gg/images/6/69/Star_Sputter.png?9b9ee9"
+        },
+        {
           "name": "Astral Blaster",
           "img": "https://calamitymod.wiki.gg/images/2/27/Astral_Blaster.png?8820ec"
         },
@@ -2378,6 +2538,18 @@
       "name": "Moon Lord",
       "clearPreviousWeapons": true,
       "weapons": [
+        {
+          "name": "Superradiant Slaughterer",
+          "img": "https://calamitymod.wiki.gg/images/3/37/Superradiant_Slaughterer.png?a8b160"
+        },
+        {
+          "name": "Starfleet",
+          "img": "https://calamitymod.wiki.gg/images/5/56/Starfleet.png?fb13ce"
+        },
+        {
+          "name": "Elemental Eruption",
+          "img": "https://calamitymod.wiki.gg/images/e/e6/Elemental_Eruption.png?c9fc23"
+        },
         {
           "name": "Shredder",
           "img": "https://calamitymod.wiki.gg/images/6/6e/Shredder.png?a0297c"
@@ -2505,6 +2677,30 @@
       "name": "Providence, the Profaned Goddess",
       "weapons": [
         {
+          "name": "Heavy Laser Rifle",
+          "img": "https://calamitymod.wiki.gg/images/f/f1/Heavy_Laser_Rifle.png?7e9a2f"
+        },
+        {
+          "name": "Freedom Star",
+          "img": "https://calamitymod.wiki.gg/images/2/23/Freedom_Star.png?35162d"
+        },
+        {
+          "name": "Pristine Fury",
+          "img": "https://calamitymod.wiki.gg/images/3/37/Pristine_Fury.gif?cf5c3b"
+        },
+        {
+          "name": "Blood Boiler",
+          "img": "https://calamitymod.wiki.gg/images/f/fe/Blood_Boiler.png?ee813a"
+        },
+        {
+          "name": "Handheld Tank",
+          "img": "https://calamitymod.wiki.gg/images/5/5e/Handheld_Tank.png?176b89"
+        },
+        {
+          "name": "Blissful Bombardier",
+          "img": "https://calamitymod.wiki.gg/images/2/2c/Blissful_Bombardier.png?86ae70"
+        },
+        {
           "name": "Spyker",
           "img": "https://calamitymod.wiki.gg/images/d/d4/Spyker.png?b26054"
         },
@@ -2613,6 +2809,10 @@
         {
           "name": "Mirror Blade",
           "img": "https://calamitymod.wiki.gg/images/6/60/Mirror_Blade.png?80f248"
+        },
+        {
+          "name": "Molecular Manipulator",
+          "img": "https://calamitymod.wiki.gg/images/9/98/Molecular_Manipulator.png?d8acf9"
         }
       ]
     },
@@ -2628,6 +2828,14 @@
     {
       "name": "Polterghast",
       "weapons": [
+        {
+          "name": "Sulphuric Acid Cannon",
+          "img": "https://calamitymod.wiki.gg/images/9/95/Sulphuric_Acid_Cannon.png?2ef7f3"
+        },
+        {
+          "name": "Halley's Inferno",
+          "img": "https://calamitymod.wiki.gg/images/2/28/Halley%27s_Inferno.png?bc9d8f"
+        },
         {
           "name": "Pearl God",
           "img": "https://calamitymod.wiki.gg/images/a/a0/Pearl_God.png?7fe4c6"
@@ -2690,6 +2898,10 @@
       "name": "The Old Duke",
       "weapons": [
         {
+          "name": "Septic Skewer",
+          "img": "https://calamitymod.wiki.gg/images/7/7e/Septic_Skewer.png?7b9355"
+        },
+        {
           "name": "Insidious Impaler",
           "img": "https://calamitymod.wiki.gg/images/9/96/Insidious_Impaler.png?1508a7"
         },
@@ -2702,6 +2914,38 @@
     {
       "name": "The Devourer of Gods",
       "weapons": [
+        {
+          "name": "Starmageddon",
+          "img": "https://calamitymod.wiki.gg/images/f/fd/Starmageddon.png?da0ee4"
+        },
+        {
+          "name": "Starmada",
+          "img": "https://calamitymod.wiki.gg/images/c/cd/Starmada.png?678cbc"
+        },
+        {
+          "name": "Pulse Rifle",
+          "img": "https://calamitymod.wiki.gg/images/6/61/Pulse_Rifle.png?6aa8e7"
+        },
+        {
+          "name": "Norfleet",
+          "img": "https://calamitymod.wiki.gg/images/4/44/Norfleet.png?5d662d"
+        },
+        {
+          "name": "The Anomaly's Nanogun",
+          "img": "https://calamitymod.wiki.gg/images/9/9f/The_Anomaly%27s_Nanogun.png?f27d9e"
+        },
+        {
+          "name": "Cleansing Blaze",
+          "img": "https://calamitymod.wiki.gg/images/3/33/Cleansing_Blaze.png?ea4775"
+        },
+        {
+          "name": "The Pack",
+          "img": "https://calamitymod.wiki.gg/images/d/d9/The_Pack.png?e3dcb7"
+        },
+        {
+          "name": "Scorched Earth",
+          "img": "https://calamitymod.wiki.gg/images/0/03/Scorched_Earth.png?28c47b"
+        },
         {
           "name": "Universal Genesis",
           "img": "https://calamitymod.wiki.gg/images/2/2f/Universal_Genesis.png?dd8604"
@@ -2816,6 +3060,14 @@
       "name": "Yharon, Dragon of Rebirth",
       "weapons": [
         {
+          "name": "Dragon's Breath",
+          "img": "https://calamitymod.wiki.gg/images/c/c6/Dragon%27s_Breath.png?a1bb25"
+        },
+        {
+          "name": "Chicken Cannon",
+          "img": "https://calamitymod.wiki.gg/images/9/98/Chicken_Cannon.png?419b25"
+        },
+        {
           "name": "Tyranny's End",
           "img": "https://calamitymod.wiki.gg/images/7/7c/Tyranny%27s_End.png?51fb2e"
         },
@@ -2864,6 +3116,14 @@
     {
       "name": "Exo Mechs",
       "weapons": [
+        {
+          "name": "Photoviscerator",
+          "img": "https://calamitymod.wiki.gg/images/4/4a/Photoviscerator.png?f84daf"
+        },
+        {
+          "name": "Magnomaly Cannon",
+          "img": "https://calamitymod.wiki.gg/images/1/1e/Magnomaly_Cannon.png?ee47cd"
+        },
         {
           "name": "Surge Driver",
           "img": "https://calamitymod.wiki.gg/images/5/5b/Surge_Driver.png?9acd2d"
