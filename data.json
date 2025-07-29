@@ -5,7 +5,7 @@
   "terrariaVersion": "1.4.4.7",
   "stages": [
     {
-      "name": "Pre Hardmode",
+      "name": "Pre Boss",
       "weapons": [
         {
           "name": "Wulfrum Blunderbuss",
@@ -1015,7 +1015,7 @@
       ]
     },
     {
-      "name": "Hard Mode",
+      "name": "Wall of Flesh",
       "clearPreviousWeapons": true,
       "weapons": [
         {
