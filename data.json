@@ -8,6 +8,14 @@
       "name": "Pre Boss",
       "weapons": [
         {
+          "name": "Wulfrum Prosthesis",
+          "img": "https://calamitymod.wiki.gg/images/9/97/Wulfrum_Prosthesis.png?83b564"
+        },
+        {
+          "name": "The Cauldron",
+          "img": "https://calamitymod.wiki.gg/images/a/ad/The_Cauldron.png?fbf8cd"
+        },
+        {
           "name": "Veering Wind",
           "img": "https://calamitymod.wiki.gg/images/4/4e/Veering_Wind.png?a740b4"
         },
@@ -649,6 +657,10 @@
       "name": "Desert Scourge",
       "weapons": [
         {
+          "name": "Sparkling Empress",
+          "img": "https://calamitymod.wiki.gg/images/a/a5/Sparkling_Empress.png?71fa21"
+        },
+        {
           "name": "Waywasher",
           "img": "https://calamitymod.wiki.gg/images/a/aa/Waywasher.png?b63792"
         },
@@ -968,6 +980,10 @@
       "name": "Skeletron",
       "weapons": [
         {
+          "name": "Black Anurian",
+          "img": "https://calamitymod.wiki.gg/images/6/6a/Black_Anurian.png?ff121d"
+        },
+        {
           "name": "Abyss Shocker",
           "img": "https://calamitymod.wiki.gg/images/b/b8/Abyss_Shocker.png?18ea6f"
         },
@@ -1110,6 +1126,10 @@
       "name": "Wall of Flesh",
       "clearPreviousWeapons": true,
       "weapons": [
+        {
+          "name": "Clothier's Wrath",
+          "img": "https://calamitymod.wiki.gg/images/b/b0/Clothier%27s_Wrath.png?e2600a"
+        },
         {
           "name": "Serpentine",
           "img": "https://calamitymod.wiki.gg/images/0/05/Serpentine.png?40015b"
@@ -1695,6 +1715,10 @@
       "name": "Aquatic Scourge",
       "weapons": [
         {
+          "name": "Belching Saxophone",
+          "img": "https://calamitymod.wiki.gg/images/4/4d/Belching_Saxophone.png?593c79"
+        },
+        {
           "name": "Slithering Eels",
           "img": "https://calamitymod.wiki.gg/images/1/11/Slithering_Eels.png?7940d5"
         },
@@ -1845,6 +1869,10 @@
     {
       "name": "Skeletron Prime",
       "weapons": [
+        {
+          "name": "Arctic Bear Paw",
+          "img": "https://calamitymod.wiki.gg/images/2/20/Arctic_Bear_Paw.png?e06242"
+        },
         {
           "name": "Ion Blaster",
           "img": "https://calamitymod.wiki.gg/images/0/01/Ion_Blaster.png?de5085"
@@ -2317,6 +2345,14 @@
       "name": "Leviathan and Anahita",
       "weapons": [
         {
+          "name": "Hadal Urn",
+          "img": "https://calamitymod.wiki.gg/images/9/92/Hadal_Urn.png?4d11e2"
+        },
+        {
+          "name": "Anahita's Arpeggio",
+          "img": "https://calamitymod.wiki.gg/images/4/41/Anahita%27s_Arpeggio.png?33eb32"
+        },
+        {
           "name": "Undine's Retribution",
           "img": "https://calamitymod.wiki.gg/images/4/40/Undine%27s_Retribution.png?2e3f21"
         },
@@ -2684,6 +2720,10 @@
       "name": "Cultist",
       "weapons": [
         {
+          "name": "Cosmic Rainbow",
+          "img": "https://calamitymod.wiki.gg/images/5/5d/Cosmic_Rainbow.png?da3ea1"
+        },
+        {
           "name": "Tome of Fates",
           "img": "https://calamitymod.wiki.gg/images/8/89/Tome_of_Fates.png?baa751"
         },
@@ -2830,6 +2870,10 @@
       "name": "Moon Lord",
       "clearPreviousWeapons": true,
       "weapons": [
+        {
+          "name": "Chronomancer's Scythe",
+          "img": "https://calamitymod.wiki.gg/images/2/20/Chronomancer%27s_Scythe.png?245538"
+        },
         {
           "name": "Nuclear Fury",
           "img": "https://calamitymod.wiki.gg/images/b/bb/Nuclear_Fury.png?8bf56a"
@@ -2983,6 +3027,10 @@
     {
       "name": "Dragonfolly",
       "weapons": [
+        {
+          "name": "Mad Alchemist's Cocktail Glove",
+          "img": "https://calamitymod.wiki.gg/images/0/0d/Mad_Alchemist%27s_Cocktail_Glove.png?c5ff71"
+        },
         {
           "name": "Rouge Slash",
           "img": "https://calamitymod.wiki.gg/images/5/58/Rouge_Slash.png?99b922"
@@ -3175,6 +3223,10 @@
       "name": "Ceaseless Void",
       "weapons": [
         {
+          "name": "Tactician's Trump Card",
+          "img": "https://calamitymod.wiki.gg/images/e/e1/Tactician%27s_Trump_Card.png?17fc24"
+        },
+        {
           "name": "Mistlestorm",
           "img": "https://calamitymod.wiki.gg/images/d/d4/Mistlestorm.png?cdeeb4"
         },
@@ -3208,6 +3260,14 @@
     {
       "name": "Polterghast",
       "weapons": [
+        {
+          "name": "Ghastly Visage",
+          "img": "https://calamitymod.wiki.gg/images/8/8c/Ghastly_Visage.png?c717ad"
+        },
+        {
+          "name": "Dark Spark",
+          "img": "https://calamitymod.wiki.gg/images/9/93/Dark_Spark.png?e7473e"
+        },
         {
           "name": "Eidolic Wail",
           "img": "https://calamitymod.wiki.gg/images/f/f9/Eidolic_Wail.png?21280d"
@@ -3326,6 +3386,10 @@
     {
       "name": "The Devourer of Gods",
       "weapons": [
+        {
+          "name": "Face Melter",
+          "img": "https://calamitymod.wiki.gg/images/4/4f/Face_Melter.png?293198"
+        },
         {
           "name": "Recitation of the Beast",
           "img": "https://calamitymod.wiki.gg/images/c/cb/Recitation_of_the_Beast.png?ad82ad"
@@ -3512,6 +3576,10 @@
       "name": "Yharon, Dragon of Rebirth",
       "weapons": [
         {
+          "name": "Yharim's Crystal",
+          "img": "https://calamitymod.wiki.gg/images/0/0f/Yharim%27s_Crystal.png?d3259a"
+        },
+        {
           "name": "Aetherflux Cannon",
           "img": "https://calamitymod.wiki.gg/images/2/2e/Aetherflux_Cannon.png?2075d8"
         },
@@ -3633,6 +3701,10 @@
     {
       "name": "Supreme Witch, Calamitas",
       "weapons": [
+        {
+          "name": "Gruesome Eminence",
+          "img": "https://calamitymod.wiki.gg/images/5/5e/Gruesome_Eminence.png?be138b"
+        },
         {
           "name": "Rancor",
           "img": "https://calamitymod.wiki.gg/images/8/8b/Rancor.png?ebc08c"
