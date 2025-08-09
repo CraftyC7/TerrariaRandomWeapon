@@ -8,6 +8,18 @@
       "name": "Pre Boss",
       "weapons": [
         {
+          "name": "Veering Wind",
+          "img": "https://calamitymod.wiki.gg/images/4/4e/Veering_Wind.png?a740b4"
+        },
+        {
+          "name": "Frost Bolt",
+          "img": "https://calamitymod.wiki.gg/images/4/4d/Frost_Bolt.png?8c2ed4"
+        },
+        {
+          "name": "Flare Bolt",
+          "img": "https://calamitymod.wiki.gg/images/c/c7/Flare_Bolt.png?4f2faf"
+        },
+        {
           "name": "Plasma Rod",
           "img": "https://calamitymod.wiki.gg/images/4/40/Plasma_Rod.png?9912e6"
         },
@@ -637,6 +649,14 @@
       "name": "Desert Scourge",
       "weapons": [
         {
+          "name": "Waywasher",
+          "img": "https://calamitymod.wiki.gg/images/a/aa/Waywasher.png?b63792"
+        },
+        {
+          "name": "Coral Spout",
+          "img": "https://calamitymod.wiki.gg/images/d/d0/Coral_Spout.png?497304"
+        },
+        {
           "name": "Sandstream Scepter",
           "img": "https://calamitymod.wiki.gg/images/2/21/Sandstream_Scepter.png?e51225"
         },
@@ -812,6 +832,10 @@
     {
       "name": "2nd Evil Boss",
       "weapons": [
+        {
+          "name": "Tradewinds",
+          "img": "https://calamitymod.wiki.gg/images/3/3e/Tradewinds.png?3603a5"
+        },
         {
           "name": "Pulse Pistol",
           "img": "https://calamitymod.wiki.gg/images/2/2d/Pulse_Pistol.png?729f7c"
@@ -1037,6 +1061,14 @@
       "name": "The Slime God",
       "weapons": [
         {
+          "name": "Eldritch Tome",
+          "img": "https://calamitymod.wiki.gg/images/f/fe/Eldritch_Tome.png?e47e83"
+        },
+        {
+          "name": "Abyssal Tome",
+          "img": "https://calamitymod.wiki.gg/images/3/33/Abyssal_Tome.png?1034ce"
+        },
+        {
           "name": "Night's Ray",
           "img": "https://calamitymod.wiki.gg/images/8/82/Night%27s_Ray.png?61764a"
         },
@@ -1078,6 +1110,18 @@
       "name": "Wall of Flesh",
       "clearPreviousWeapons": true,
       "weapons": [
+        {
+          "name": "Serpentine",
+          "img": "https://calamitymod.wiki.gg/images/0/05/Serpentine.png?40015b"
+        },
+        {
+          "name": "Poseidon",
+          "img": "https://calamitymod.wiki.gg/images/4/43/Poseidon.png?f20da1"
+        },
+        {
+          "name": "Frigidflash Bolt",
+          "img": "https://calamitymod.wiki.gg/images/0/06/Frigidflash_Bolt.png?c2d75d"
+        },
         {
           "name": "Glorious End",
           "img": "https://calamitymod.wiki.gg/images/6/60/Glorious_End.png?ac0ef0"
@@ -1497,10 +1541,6 @@
           "img": "https://calamitymod.wiki.gg/images/9/9f/Hoarfrost_Bow.png?597f7e"
         },
         {
-          "name": "Shimmerspark",
-          "img": "https://calamitymod.wiki.gg/images/a/a5/Shimmerspark.png?6fd65a"
-        },
-        {
           "name": "Avalanche",
           "img": "https://calamitymod.wiki.gg/images/e/ed/Avalanche.png?c85dc3"
         },
@@ -1521,6 +1561,10 @@
     {
       "name": "The Twins",
       "weapons": [
+        {
+          "name": "Burning Sea",
+          "img": "https://calamitymod.wiki.gg/images/5/58/Burning_Sea.png?dde6ce"
+        },
         {
           "name": "SHPC",
           "img": "https://calamitymod.wiki.gg/images/4/47/SHPC.png?79e057"
@@ -1546,28 +1590,12 @@
           "img": "https://calamitymod.wiki.gg/images/f/ff/Arbalest.png?a94661"
         },
         {
-          "name": "Darkecho Greatbow",
-          "img": "https://calamitymod.wiki.gg/images/6/64/Darkecho_Greatbow.png?8defc6"
-        },
-        {
           "name": "Brimstone Fury",
           "img": "https://calamitymod.wiki.gg/images/3/3e/Brimstone_Fury.png?a32857"
         },
         {
-          "name": "Starnight Lance",
-          "img": "https://calamitymod.wiki.gg/images/b/bf/Starnight_Lance.png?602154"
-        },
-        {
           "name": "Brimstone Sword",
           "img": "https://calamitymod.wiki.gg/images/e/e1/Brimstone_Sword.png?cecbc7"
-        },
-        {
-          "name": "Flarefrost Blade",
-          "img": "https://calamitymod.wiki.gg/images/5/5c/Flarefrost_Blade.png?fbd23a"
-        },
-        {
-          "name": "Darklight Greatsword",
-          "img": "https://calamitymod.wiki.gg/images/3/30/Darklight_Greatsword.png?d844f8"
         },
         {
           "name": "Mythril Sword",
@@ -1667,6 +1695,10 @@
       "name": "Aquatic Scourge",
       "weapons": [
         {
+          "name": "Slithering Eels",
+          "img": "https://calamitymod.wiki.gg/images/1/11/Slithering_Eels.png?7940d5"
+        },
+        {
           "name": "Miasma",
           "img": "https://calamitymod.wiki.gg/images/7/7a/Miasma.png?762f15"
         },
@@ -1707,6 +1739,38 @@
     {
       "name": "The Destroyer",
       "weapons": [
+        {
+          "name": "Shadecrystal Barrage",
+          "img": "https://calamitymod.wiki.gg/images/9/98/Shadecrystal_Barrage.png?8e18c0"
+        },
+        {
+          "name": "Starnight Lance",
+          "img": "https://calamitymod.wiki.gg/images/b/bf/Starnight_Lance.png?602154"
+        },
+        {
+          "name": "Shimmerspark",
+          "img": "https://calamitymod.wiki.gg/images/a/a5/Shimmerspark.png?6fd65a"
+        },
+        {
+          "name": "Flarefrost Blade",
+          "img": "https://calamitymod.wiki.gg/images/5/5c/Flarefrost_Blade.png?fbd23a"
+        },
+        {
+          "name": "Darklight Greatsword",
+          "img": "https://calamitymod.wiki.gg/images/3/30/Darklight_Greatsword.png?d844f8"
+        },
+        {
+          "name": "Darkecho Greatbow",
+          "img": "https://calamitymod.wiki.gg/images/6/64/Darkecho_Greatbow.png?8defc6"
+        },
+        {
+          "name": "Relic of Ruin",
+          "img": "https://calamitymod.wiki.gg/images/8/8f/Relic_of_Ruin.png?e8666f"
+        },
+        {
+          "name": "Death Valley Duster",
+          "img": "https://calamitymod.wiki.gg/images/d/dc/Death_Valley_Duster.png?ba63a7"
+        },
         {
           "name": "Gauss Pistol",
           "img": "https://calamitymod.wiki.gg/images/a/a4/Gauss_Pistol.png?564d59"
@@ -1764,6 +1828,10 @@
     {
       "name": "Brimstone Elemental",
       "weapons": [
+        {
+          "name": "Seething Discharge",
+          "img": "https://calamitymod.wiki.gg/images/a/a3/Seething_Discharge.png?aaf988"
+        },
         {
           "name": "Brimlance",
           "img": "https://calamitymod.wiki.gg/images/5/5e/Brimlance.png?7ce335"
@@ -1903,6 +1971,10 @@
       "name": "Calamitas Clone",
       "weapons": [
         {
+          "name": "Lashes of Chaos",
+          "img": "https://calamitymod.wiki.gg/images/8/8e/Lashes_of_Chaos.png?d1b6c5"
+        },
+        {
           "name": "Art Attack",
           "img": "https://calamitymod.wiki.gg/images/f/f4/Art_Attack.png?a21e05"
         },
@@ -1927,6 +1999,26 @@
     {
       "name": "Plantera",
       "weapons": [
+        {
+          "name": "Wrath of the Ancients",
+          "img": "https://calamitymod.wiki.gg/images/c/c9/Wrath_of_the_Ancients.png?fefbc1"
+        },
+        {
+          "name": "Winter's Fury",
+          "img": "https://calamitymod.wiki.gg/images/0/0b/Winter%27s_Fury.png?1f59a8"
+        },
+        {
+          "name": "Tears of Heaven",
+          "img": "https://calamitymod.wiki.gg/images/8/80/Tears_of_Heaven.png?81caf3"
+        },
+        {
+          "name": "Primordial Earth",
+          "img": "https://calamitymod.wiki.gg/images/8/84/Primordial_Earth.png?3f01db"
+        },
+        {
+          "name": "Everglade Spray",
+          "img": "https://calamitymod.wiki.gg/images/d/d0/Everglade_Spray.png?3b42d7"
+        },
         {
           "name": "Shifting Sands",
           "img": "https://calamitymod.wiki.gg/images/7/7f/Shifting_Sands.png?b53e2f"
@@ -2303,6 +2395,10 @@
       "name": "Golem",
       "weapons": [
         {
+          "name": "Forbidden Sun",
+          "img": "https://calamitymod.wiki.gg/images/0/01/Forbidden_Sun.png?ef249f"
+        },
+        {
           "name": "Wingman",
           "img": "https://calamitymod.wiki.gg/images/0/09/Wingman.png?40b90a"
         },
@@ -2588,6 +2684,10 @@
       "name": "Cultist",
       "weapons": [
         {
+          "name": "Tome of Fates",
+          "img": "https://calamitymod.wiki.gg/images/8/89/Tome_of_Fates.png?baa751"
+        },
+        {
           "name": "The Swarmer",
           "img": "https://calamitymod.wiki.gg/images/5/50/The_Swarmer.png?87d809"
         },
@@ -2689,6 +2789,10 @@
       "name": "Astrum Deus",
       "weapons": [
         {
+          "name": "Star Shower",
+          "img": "https://calamitymod.wiki.gg/images/d/d9/Star_Shower.png?151a24"
+        },
+        {
           "name": "Astral Staff",
           "img": "https://calamitymod.wiki.gg/images/f/f2/Astral_Staff.png?3009d9"
         },
@@ -2726,6 +2830,14 @@
       "name": "Moon Lord",
       "clearPreviousWeapons": true,
       "weapons": [
+        {
+          "name": "Nuclear Fury",
+          "img": "https://calamitymod.wiki.gg/images/b/bb/Nuclear_Fury.png?8bf56a"
+        },
+        {
+          "name": "Augur of the Elements",
+          "img": "https://calamitymod.wiki.gg/images/f/fa/Augur_of_the_Elements.png?d34efa"
+        },
         {
           "name": "Genesis",
           "img": "https://calamitymod.wiki.gg/images/7/74/Genesis.png?3cd651"
@@ -2872,6 +2984,10 @@
       "name": "Dragonfolly",
       "weapons": [
         {
+          "name": "Rouge Slash",
+          "img": "https://calamitymod.wiki.gg/images/5/58/Rouge_Slash.png?99b922"
+        },
+        {
           "name": "Golden Eagle",
           "img": "https://calamitymod.wiki.gg/images/4/4e/Golden_Eagle.png?9c6ab7"
         },
@@ -2888,6 +3004,10 @@
     {
       "name": "Providence, the Profaned Goddess",
       "weapons": [
+        {
+          "name": "Biofusillade",
+          "img": "https://calamitymod.wiki.gg/images/3/3c/Biofusillade.png?7e3bbb"
+        },
         {
           "name": "Purge Guzzler",
           "img": "https://calamitymod.wiki.gg/images/d/d4/Purge_Guzzler.png?f646b8"
@@ -3207,6 +3327,22 @@
       "name": "The Devourer of Gods",
       "weapons": [
         {
+          "name": "Recitation of the Beast",
+          "img": "https://calamitymod.wiki.gg/images/c/cb/Recitation_of_the_Beast.png?ad82ad"
+        },
+        {
+          "name": "Primordial Ancient",
+          "img": "https://calamitymod.wiki.gg/images/5/50/Primordial_Ancient.png?90a71f"
+        },
+        {
+          "name": "Light God's Brilliance",
+          "img": "https://calamitymod.wiki.gg/images/8/88/Light_God%27s_Brilliance.png?d20d8c"
+        },
+        {
+          "name": "Event Horizon",
+          "img": "https://calamitymod.wiki.gg/images/8/81/Event_Horizon.png?caae77"
+        },
+        {
           "name": "Omicron",
           "img": "https://calamitymod.wiki.gg/images/8/8a/Omicron.png?560f76"
         },
@@ -3453,6 +3589,10 @@
       "name": "Exo Mechs",
       "weapons": [
         {
+          "name": "Subsuming Vortex",
+          "img": "https://calamitymod.wiki.gg/images/d/d6/Subsuming_Vortex.png?bb19cc"
+        },
+        {
           "name": "Vivid Clarity",
           "img": "https://calamitymod.wiki.gg/images/4/40/Vivid_Clarity.png?c61ed0"
         },
@@ -3493,6 +3633,26 @@
     {
       "name": "Supreme Witch, Calamitas",
       "weapons": [
+        {
+          "name": "Rancor",
+          "img": "https://calamitymod.wiki.gg/images/8/8b/Rancor.png?ebc08c"
+        },
+        {
+          "name": "Heresy",
+          "img": "https://calamitymod.wiki.gg/images/4/4f/Heresy.gif?692f57"
+        },
+        {
+          "name": "Eternity",
+          "img": "https://calamitymod.wiki.gg/images/3/38/Eternity.png?1ab35b"
+        },
+        {
+          "name": "The Dance of Light",
+          "img": "https://calamitymod.wiki.gg/images/f/f5/The_Dance_of_Light.png?964c0c"
+        },
+        {
+          "name": "Apotheosis",
+          "img": "https://calamitymod.wiki.gg/images/9/93/Apotheosis.png?b39ecf"
+        },
         {
           "name": "Tesla Cannon",
           "img": "https://calamitymod.wiki.gg/images/a/ad/Tesla_Cannon.png?4d1c69"
