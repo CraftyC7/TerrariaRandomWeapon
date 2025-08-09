@@ -1009,6 +1009,10 @@
       "name": "2nd Evil Boss",
       "weapons": [
         {
+          "name": "Aestheticus",
+          "img": "https://calamitymod.wiki.gg/images/c/cd/Aestheticus.png?293b13"
+        },
+        {
           "name": "Turbulance",
           "img": "https://calamitymod.wiki.gg/images/7/78/Turbulance.png?559db5"
         },
@@ -1390,6 +1394,10 @@
       "name": "Wall of Flesh",
       "clearPreviousWeapons": true,
       "weapons": [
+        {
+          "name": "Lunic Eye",
+          "img": "https://calamitymod.wiki.gg/images/6/6f/Lunic_Eye.png?b0d029"
+        },
         {
           "name": "Wave Skipper",
           "img": "https://calamitymod.wiki.gg/images/8/82/Wave_Skipper.png?c10137"
@@ -3372,6 +3380,10 @@
       "name": "Cultist",
       "weapons": [
         {
+          "name": "Eye of Magnus",
+          "img": "https://calamitymod.wiki.gg/images/b/bd/Eye_of_Magnus.png?b31aa1"
+        },
+        {
           "name": "Star of Destruction",
           "img": "https://calamitymod.wiki.gg/images/d/db/Star_of_Destruction.png?a1d120"
         },
@@ -3733,6 +3745,15 @@
         {
           "name": "Greatsword of Judgement",
           "img": "https://calamitymod.wiki.gg/images/d/d3/Greatsword_of_Judgement.png?cd2d90"
+        }
+      ]
+    },
+    {
+      "name": "Profaned Guardians",
+      "weapons": [
+        {
+          "name": "Relic of Deliverance",
+          "img": "https://calamitymod.wiki.gg/images/b/b2/Relic_of_Deliverance.png?484e06"
         }
       ]
     },
@@ -4238,6 +4259,10 @@
     {
       "name": "The Devourer of Gods",
       "weapons": [
+        {
+          "name": "Prismatic Breaker",
+          "img": "https://calamitymod.wiki.gg/images/a/ab/Prismatic_Breaker.png?e78e57"
+        },
         {
           "name": "Plasma Grenade",
           "img": "https://calamitymod.wiki.gg/images/d/d8/Plasma_Grenade.png?8732f3"
